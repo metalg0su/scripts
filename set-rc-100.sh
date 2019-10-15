@@ -1,5 +1,4 @@
 #!/bin/bash
-
 cd ../rewardcalculator
 rm -rf *
 git reset --hard
