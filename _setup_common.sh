@@ -1,6 +1,6 @@
 #!/bin/bash
 source venv/bin/activate
-pip install -e .
+make develop
 make generate-proto
 
 clear

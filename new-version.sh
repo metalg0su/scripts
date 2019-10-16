@@ -6,7 +6,7 @@ git fetch --all
 git checkout origin/2.4.12-test -f
 
 source venv-new/bin/activate
-pip install -e .
+make develop
 make generate-proto
 
 clear
