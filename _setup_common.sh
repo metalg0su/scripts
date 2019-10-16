@@ -5,4 +5,3 @@ make generate-proto
 
 clear
 python -V
-git show --oneline

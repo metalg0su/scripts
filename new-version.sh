@@ -11,6 +11,5 @@ make generate-proto
 
 clear
 python -V
-git show --oneline
 
 loop -d -o peer_config.json
