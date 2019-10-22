@@ -3,7 +3,7 @@
 . scripts/set-rc-new.sh
 
 git fetch --all
-git checkout origin/2.4.12-test -f
+git checkout origin/2.4.15-test -f
 
 source venv-new/bin/activate
 make develop
