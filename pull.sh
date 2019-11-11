@@ -1,5 +1,7 @@
 pwd
 cd scripts
-git pull
+git reset --hard
+git fetch
+git reset origin/master --hard
 cd -
 pwd
