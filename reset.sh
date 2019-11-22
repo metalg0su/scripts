@@ -1,3 +1,3 @@
 #!/bin/bash
 ./scripts/stop_all.sh
-rm -rf .st*
+rm -rf .st* log *.tgz
