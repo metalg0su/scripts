@@ -1,5 +1,5 @@
 #!/bin/bash
-check_ps='ps -ef | grep "python\|guni\|loopchain" | grep -v "grep"'
+check_ps='ps -ef | grep "python\|guni\|loopchain\|icon" | grep -v "grep"'
 
 eval ${check_ps}
 
